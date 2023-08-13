@@ -1,4 +1,4 @@
-### 👋 Hello there, I’m @andhuangg
+## 👋 Hello there, I’m @andhuangg
 
 ---
 
@@ -6,7 +6,7 @@
 
 🇺🇸 Currently, I'm a student at [Trybe](https://www.betrybe.com/) where I'm studying Web Development.
 
-### Habilidades / Skills
+## Habilidades / Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
